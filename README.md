@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋I am a recent graduate with a Master’s of Engineering Degree, specializing in Software Engineering from the University of Western Ontario, London, CA. My program focuses on data analytics and software engineering.
+
+📚 Here are some courses I have taken: Data Management & Application, Advanced Databases, Cloud Computing, Data Analytics Foundations, Machine Learning, Introduction to Hacking, and Project Management (ELI).
+
+🔬 I'm passionate about leveraging data to drive insights and decisions. As a seasoned data engineer, I specialize in designing robust ETL pipelines, crafting efficient SQL queries, and developing powerful Python scripts for data processing and analysis.
+
+⚙️ Additionally, I possess a strong background in software development and DevOps.
+
+📧 To get in touch with me, you can reach me via email at nvenkat6@uwo.ca or connect with me on LinkedIn: https://www.linkedin.com/in/nilinbalaji/.
 
 <!--
 **Nilin-Balaji/Nilin-Balaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
